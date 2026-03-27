@@ -36,5 +36,5 @@ frontend/yarn-error.log*
 .env.local
 .env.*.local
 
-# Uploads (optional - uncomment if you want to ignore uploads)
-# backend/uploads/
+# Uploads
+backend/uploads/
