@@ -1,12 +1,6 @@
-# BANDIRMA SRC - CRM Sistemi
+# BANDIRMA SÜRÜCÜ KURSU - CRM Sistemi
 
-Bandırma SRC (Sertifikasyon ve Rehberlik Merkezi) için geliştirilmiş kapsamlı CRM (Customer Relationship Management) sistemi. Kursiyer yönetimi, sınav takibi, evrak yönetimi ve raporlama özelliklerini içeren web tabanlı platform.
-
----
-
-## 🎯 Proje Özeti
-
-Bandırma SRC-CRM, eğitim kurumları için tasarlanmış modern ve kapsamlı bir yönetim sistemidir. Kursiyerlerin kayıt işlemlerinden sınav sonuçlarına, evrak takibinden finansal raporlara kadar tüm süreçleri dijitalleştirir.
+Bandırma SRC için tasarlanmış modern ve kapsamlı bir yönetim sistemidir. Kursiyerlerin kayıt işlemlerinden sınav sonuçlarına, evrak takibinden finansal raporlara kadar tüm süreçleri dijitalleştirir.
 
 ---
 
@@ -717,10 +711,3 @@ Bandırma SRC-CRM, eğitim kurumları için tam teşekküllü bir yönetim çöz
 - ✅ **Yönetim:** Kolay yedekleme ve veri yönetimi
 
 Bu sistem, modern bir eğitim kurumunun tüm ihtiyaçlarını karşılamak üzere tasarlanmıştır.
-
----
-
-**Geliştirme Tarihi:** 2026  
-**Versiyon:** 1.0  
-**Platform:** Web (FastAPI Backend + React Frontend)  
-**Veritabanı:** SQLite3
